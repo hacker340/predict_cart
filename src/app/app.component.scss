@@ -1,0 +1,28 @@
+.icon:hover {
+    color: #8a2be2;
+}
+
+.icon {
+    height: 32px;
+    width: 64px;
+    cursor: pointer;
+}
+
+.item:hover {
+    background-color: #8a2be2;
+    color: white;
+}
+
+.item {
+    cursor: pointer;
+}
+
+.save-button {
+    float: right;
+    column-gap: 16px;
+    display: flex;
+}
+
+.container {
+    width: 700px;
+}

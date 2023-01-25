@@ -1,0 +1,4 @@
+cust_id|id|itemDescription|to_order_qty|price_per_unit
+10|p1000|bottled water|1|2.5
+10|p3|butter||2.5
+10|p4|candles|12|2.5
